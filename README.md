@@ -55,7 +55,7 @@ ollama pull tinyllama     # Low-memory fallback
 ### **2. Backend Setup**
 ```bash
 # Clone the repo
-git clone https://github.com/KOTAHARSHA25/nexus-llm-analytics.git
+git clone https://github.com/B-Gunashekar/nexus-llm-analytics.git
 cd nexus-llm-analytics
 
 # Setup Python Environment
